@@ -1,3 +1,2 @@
-Lorem ipsum dolor sit amet
-Something.. Something.. 
-Roses are red. Pinks are blue.
+Lorem ipsum dolor sit amet 
+Drugs are bad, mmkay!?
