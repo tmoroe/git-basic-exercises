@@ -1,0 +1,184 @@
+    1  sudo pamac-manager 
+    2  vim .config/i3/config 
+    3  pamac-manager 
+    4  vim .config/i3/config 
+    5  vim .config/i3/config 
+    6  vim .config/i3/config 
+    7  xfce4-screenshooter 
+    8  vim .config/i3/config 
+    9  rfkill
+   10  nmapplet
+   11  nm-applet 
+   12  vim .config/i3/config 
+   13  sudo gnome-disks
+   14  reboot
+   15  sudo gnome-disks
+   16  sudo gnome-disks
+   17  alsamixer 
+   18  sudo pamac-manager 
+   19  blue
+   20  bluetooth
+   21  bc
+   22  pkill thunderbird 
+   23  pkill thunderbird 
+   24  python
+   25  clear
+   26  bc
+   27  ascii
+   28  asci
+   29  man ascii
+   30  sudo pamac-manager 
+   31  minecraft 
+   32  sudo su
+   33  sudo su
+   34  vscode 
+   35  sensors
+   36  systemctl fancontrol
+   37  systemctl disable fancontrol
+   38  sudo su
+   39  sysctl -a
+   40  cat /proc/cmdline
+   41  sudo gnome-disks 
+   42  minecraft 
+   43  sudo su
+   44  cat /proc/cmd
+   45  cat /proc/cmdline 
+   46  sudo su
+   47  sensors
+   48  cat /proc/cmdline 
+   49  sudo su
+   50  sensors
+   51  sudo su
+   52  sensors
+   53  sudo su
+   54  minecraft 
+   55  sudo gnome-disks
+   56  cd Projects/
+   57  mkdir umuzi
+   58  cd umuzi/
+   59  mkdir git-basic-exercises
+   60  cd git-basic-exercises/
+   61  ls -a
+   62  git init
+   63  ls -a
+   64  git status
+   65  touch README.md
+   66  git status
+   67  git log
+   68  git add README.md 
+   69  git status
+   70  git remove README.md
+   71  git --help 
+   72  git rm 
+   73  git rm Re
+   74  git rm README.md 
+   75  ls -a
+   76  git rm -f
+   77  git rm -f README.md 
+   78  ls -a
+   79  touch README.md
+   80  git status 
+   81  git ls
+   82  git server ls
+   83  git show
+   84  git show ls
+   85  git reset
+   86  git status
+   87  git rm --cached
+   88  git rm --cached README.md 
+   89  git log
+   90  git log ls
+   91  vim README.md 
+   92  git stats
+   93  git status
+   94  git commit -m "initial commit"
+   95  git branch
+   96  git branch milkshake-flavours
+   97  git checkout milkshake-flavours
+   98  git status
+   99  git branch milkshake-flavours
+  100  git config --global user.email "tmoroe@student.wethinkcode.co.za"
+  101  git config --global user.name "Thabang"
+  102  la -lrh
+  103  reboot
+  104  python --version
+  105  systemctl status asus-wmi
+  106  systemctl status asus-fan
+  107  modprobe asus-wmi
+  108  systemctl status asus-fan
+  109  modprobe asus-wmi
+  110  systemctl status asus-wmi
+  111  modprobe asus-wmi
+  112  systemctl status asus-wmi
+  113  $ ls /lib/modules/$(uname -r)/kernel/drivers/
+  114  $ ls /lib/modules/ $(uname -r)/kernel/drivers/
+  115  $ ls /lib/modules/uname -r /kernel/drivers/
+  116  ls /lib/modules/$(uname -r)/kernel/drivers/
+  117  ls /lib/modules/$(uname -r)/kernel/drivers/thermal
+  118  ls /lib/modules/$(uname -r)/kernel/drivers/thermal/intel/
+  119  ls /lib/modules/$(uname -r)/kernel/drivers/acpi/
+  120  modinfo asus-wmi
+  121  lsmod
+  122  clear
+  123  ls
+  124  cd Projects/
+  125  ls
+  126  cd umuzi/
+  127  ls
+  128  rm git-basic-exercises/*
+  129  cd git-basic-exercises/
+  130  clear
+  131  git init
+  132  ls -a
+  133  touch README.md
+  134  git status
+  135  git log
+  136  git add 
+  137  git add README.md 
+  138  git status
+  139  git log
+  140  git reset README.md
+  141  git status
+  142  git log
+  143  git add README.md 
+  144  git commit -m "initial commit"
+  145  git log
+  146  vim README.md 
+  147  cat README.md 
+  148  git stats
+  149  git status
+  150  git add README.md 
+  151  git status
+  152  git commit -m "second commit"
+  153  git log
+  154  vim README.md 
+  155  git status
+  156  git add README.md 
+  157  git commit -m "third commit"
+  158  git log
+  159  clear
+  160  git log
+  161  git checkout 96fc1594b6972b20dcd589a7f25b951d1a3bf1fa
+  162  cat README.md 
+  163  git checkout master
+  164  cat README.md 
+  165  git branch
+  166  git branch milkshake-flavours
+  167  git branch
+  168  git checkout milkshake-flavours 
+  169  vim milkshakes.md
+  170  git status 
+  171  git commit -m "added initial flavours"
+  172  git log
+  173  git add milkshakes.md 
+  174  git commit -m "added initial flavours"
+  175  git log
+  176  git checkout master
+  177  git status
+  178  git log
+  179  git branch
+  180  git branch history
+  181  git checkout history
+  182  git log
+  183  git branch
+  184  history > history.txt
